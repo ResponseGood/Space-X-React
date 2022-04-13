@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+body {
+  background-color: #000;
+}
+
+/*Main Header Logo*/
+.logo {
+  margin-left: 104px;
+  position: relative;
+  top:60px;
+}
+/*Header Nav*/
+.header {
+  display: flex;
+  justify-content:center;
+}
+/*Header Nav Element*/
+.header_item {
+  position: relative;
+  top:10px;
+  left:80px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 14px;
+  font-family: 'Roboto', sans-serif;
+  padding:18px;
+  color: #fff;
+}
+ul {
+  display: flex;
+  list-style: none;
+}
+
+li {
+  display:inline-block
+}
+
+/*Header Nav Element Right*/
+.header_item_right {
+  position: relative;
+  top:7px;
+  left:200%;
+  padding-left:400px;
+  padding:18px;
+  font-size: 18px;
+  color: #808080;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+/*Title Falcon Heavy*/
+.title {
+  text-align: center;
+  font-size:56px;
+  color:#fff;
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  top:170px;
+  right:35px;
+
+}
+/*SubTitle*/
+.subtitle {
+  display: flex;
+  justify-content:center;
+  font-style: normal;
+  line-height:140%;
+  font-family: 'Roboto', sans-serif;
+  font-size:16px;
+  color: #fff;
+  text-align: justify;
+  position: relative;
+  text-transform: lowercase;
+  font-size: 22px;
+  right:35px;
+  top:206px;
+
+}
+
