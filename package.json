@@ -1,7 +1,7 @@
 {
   "name": "space-x-react",
   "version": "0.1.0",
-  "homepage": "https://ResponseGood.github.io/react-gh-pages",
+  "homepage": "https://ResponseGood.github.io/Space-X-React",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
