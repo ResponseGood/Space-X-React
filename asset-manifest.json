@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.017fe83e.css",
-    "main.js": "/react-gh-pages/static/js/main.3528de79.js",
-    "static/js/787.a8ebf068.chunk.js": "/react-gh-pages/static/js/787.a8ebf068.chunk.js",
-    "static/media/planet.png": "/react-gh-pages/static/media/planet.cbf30fdeb2155305aa69.png",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.017fe83e.css.map": "/react-gh-pages/static/css/main.017fe83e.css.map",
-    "main.3528de79.js.map": "/react-gh-pages/static/js/main.3528de79.js.map",
-    "787.a8ebf068.chunk.js.map": "/react-gh-pages/static/js/787.a8ebf068.chunk.js.map"
+    "main.css": "/Space-X-React/static/css/main.017fe83e.css",
+    "main.js": "/Space-X-React/static/js/main.3a7b8bc3.js",
+    "static/js/787.a8ebf068.chunk.js": "/Space-X-React/static/js/787.a8ebf068.chunk.js",
+    "static/media/planet.png": "/Space-X-React/static/media/planet.cbf30fdeb2155305aa69.png",
+    "static/media/logo.svg": "/Space-X-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Space-X-React/index.html",
+    "main.017fe83e.css.map": "/Space-X-React/static/css/main.017fe83e.css.map",
+    "main.3a7b8bc3.js.map": "/Space-X-React/static/js/main.3a7b8bc3.js.map",
+    "787.a8ebf068.chunk.js.map": "/Space-X-React/static/js/787.a8ebf068.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.017fe83e.css",
-    "static/js/main.3528de79.js"
+    "static/js/main.3a7b8bc3.js"
   ]
 }
