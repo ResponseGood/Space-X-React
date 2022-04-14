@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Space-X-React/static/css/main.017fe83e.css",
-    "main.js": "/Space-X-React/static/js/main.3a7b8bc3.js",
+    "main.css": "/Space-X-React/static/css/main.4c82c89e.css",
+    "main.js": "/Space-X-React/static/js/main.9980a202.js",
     "static/js/787.a8ebf068.chunk.js": "/Space-X-React/static/js/787.a8ebf068.chunk.js",
     "static/media/planet.png": "/Space-X-React/static/media/planet.cbf30fdeb2155305aa69.png",
-    "static/media/logo.svg": "/Space-X-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/rocket.png": "/Space-X-React/static/media/rocket.85801f03053485951dfe.png",
     "index.html": "/Space-X-React/index.html",
-    "main.017fe83e.css.map": "/Space-X-React/static/css/main.017fe83e.css.map",
-    "main.3a7b8bc3.js.map": "/Space-X-React/static/js/main.3a7b8bc3.js.map",
+    "main.4c82c89e.css.map": "/Space-X-React/static/css/main.4c82c89e.css.map",
+    "main.9980a202.js.map": "/Space-X-React/static/js/main.9980a202.js.map",
     "787.a8ebf068.chunk.js.map": "/Space-X-React/static/js/787.a8ebf068.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.017fe83e.css",
-    "static/js/main.3a7b8bc3.js"
+    "static/css/main.4c82c89e.css",
+    "static/js/main.9980a202.js"
   ]
 }
