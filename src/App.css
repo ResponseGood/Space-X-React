@@ -154,8 +154,7 @@ hr {
   left:180px;
   top:840px;
   text-align: justify;
-  text-justify: auto;
-  text-align-last:center;
+  text-justify: inter-word;
 }
 
 
@@ -174,6 +173,46 @@ hr {
   margin:auto;
   display:block;
   position: relative;
-  right:90px;
+  right:5px;
   top:1400px;
+}
+
+.footer_socials a {
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+  margin:0px 0px 0px 10px;
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  top:1445px;
+}
+
+.mail {
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  top:1470px;
+  color: #808080;
+  text-align:center;
+
+}
+
+.button_contact {
+  width: 260px;
+  height: 60px;
+  border: 2px solid #FFFFFF;
+  border-radius: 6px;
+  position: relative;
+  top:1520px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  left:80px;
+}
+
+.content_button {
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  text-align: center;
+  font-size: 18px;
+  line-height: 21px;
 }

@@ -64,6 +64,20 @@ function App() {
         Falcon Heavy can lift the equivalent of a fully loaded 737 jetliner—complete with passengers, luggage and fuel—to orbit.
       </span>
       <img src={logoImg} className="logo_footer" alt="logo_footer"/>
+      <div className="footer_socials">
+        <a href="/">Twitter</a>
+        <a href="/">Youtube</a>
+        <a href="/">Instagram</a>
+        <a href="/">Flicr</a>
+        <a href="/">Linkedin</a>
+        <a href="/">Privacy</a>
+        <a href="/">Policy</a>
+      </div>
+      <p className="mail">For additional questions, contact rideshare@spacex.com</p>
+      <div className="button_contact">
+        <p className="content_button">Contact us</p>
+
+      </div>
     </div>
   );
 }
