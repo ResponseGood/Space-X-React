@@ -25,8 +25,7 @@ body {
 .header_item {
   position: relative;
   top:10px;
-  left:80px;
-  text-align: center;
+  right:-90px;
   font-size: 18px;
   line-height: 14px;
   font-family: 'Roboto', sans-serif;
@@ -35,20 +34,22 @@ body {
 }
 ul {
   display: flex;
-  list-style: none;
+  align-items: center;
+  text-align: center;
 }
 
 li {
-  display:inline-block
+  text-align: center;
+  margin:auto;
+  display:block;
 }
 
 /*Header Nav Element Right*/
 .header_item_right {
   position: relative;
   top:7px;
-  left:200%;
-  padding-left:400px;
-  padding:18px;
+  left:480px;
+  padding:0 0 0 18px;
   font-size: 18px;
   color: #808080;
   font-family: 'Roboto', sans-serif;
@@ -63,8 +64,6 @@ li {
   font-family: 'Roboto', sans-serif;
   position: relative;
   top:170px;
-  right:35px;
-
 }
 /*SubTitle*/
 .subtitle {
@@ -79,7 +78,6 @@ li {
   position: relative;
   text-transform: lowercase;
   font-size: 22px;
-  right:35px;
   top:206px;
 
 }
@@ -91,7 +89,6 @@ hr {
   margin: auto;
   display:block;
   position: relative;
-  right:28px;
   top:260px;
   border: 1px solid #FFFFFF;
 }
@@ -173,7 +170,7 @@ hr {
   margin:auto;
   display:block;
   position: relative;
-  right:5px;
+  right:35px;
   top:1400px;
 }
 
@@ -184,6 +181,7 @@ hr {
   margin:0px 0px 0px 10px;
   font-family: 'Roboto', sans-serif;
   position: relative;
+  right:35px;
   top:1445px;
 }
 
@@ -191,17 +189,19 @@ hr {
   font-family: 'Roboto', sans-serif;
   position: relative;
   top:1470px;
+  right:35px;
   color: #808080;
   text-align:center;
 
 }
 
 .button_contact {
-  width: 260px;
+  width:200px;
   height: 60px;
   border: 2px solid #FFFFFF;
   border-radius: 6px;
   position: relative;
+  text-align:center;
   top:1520px;
   display: flex;
   align-items: center;
@@ -212,7 +212,6 @@ hr {
 .content_button {
   font-family: 'Roboto', sans-serif;
   color: #ffffff;
-  text-align: center;
   font-size: 18px;
-  line-height: 21px;
+  position: relative;
 }
